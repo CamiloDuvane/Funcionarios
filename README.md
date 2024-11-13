@@ -86,6 +86,58 @@ tr:hover {
         <option value="Marketing">Marketing</option>
     </select>
 </div>
+<table id="employeeTable">
+    <thead>
+        <tr>
+            <th>Foto</th>
+            <th>Nome</th>
+            <th>Função</th>
+            <th>Departamento</th>
+            <th>Contacto</th>
+            <th>Email</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#007bff"/>
+                <circle cx="25" cy="55" r="25" fill="#007bff"/>
+            </svg></td>
+            <td>João Silva</td>
+            <td>Desenvolvedor Senior</td>
+            <td>TI</td>
+            <td>+258 84 123 4567</td>
+            <td>joao.silva@empresa.com</td>
+            <td class="status-active">Activo</td>
+        </tr>
+        <tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#ff6b6b"/>
+                <circle cx="25" cy="55" r="25" fill="#ff6b6b"/>
+            </svg></td>
+            <td>Maria Santos</td>
+            <td>Gerente RH</td>
+            <td>RH</td>
+            <td>+258 85 234 5678</td>
+            <td>maria.santos@empresa.com</td>
+            <td class="status-active">Activo</td>
+        </tr>
+        <tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#51cf66"/>
+                <circle cx="25" cy="55" r="25" fill="#51cf66"/>
+            </svg></td>
+            <td>Pedro Costa</td>
+            <td>Analista Financeiro</td>
+            <td>Financeiro</td>
+            <td>+258 86 345 6789</td>
+            <td>pedro.costa@empresa.com</td>
+            <td class="status-inactive">Inativo</td>
+        </tr>
+    </tbody>
+</table>
+<script>
 document.getElementById('nameSearch').addEventListener('input', filterTable);
 document.getElementById('departmentSearch').addEventListener('change', filterTable);
 

@@ -1,4 +1,4 @@
-<html><head><base href="https://example.com/employee-directory/">
+<html><head><base href="https://camiloduvane.github.io/Funcionarios/">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Lista de Funcionários</title>
@@ -74,7 +74,7 @@ tr:hover {
 </style>
 </head>
 <body>
-<a href="https://example.com/romantic-proposal/" class="back-button">← Voltar</a>
+<a href="https://camiloduvane.github.io/DMTT/" class="back-button">← Voltar</a>
 
 <div class="search-container">
     <input type="text" id="nameSearch" placeholder="Pesquisar por nome...">

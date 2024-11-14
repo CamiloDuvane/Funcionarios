@@ -135,6 +135,27 @@ tr:hover {
             <td>carlos.vilanculos@camiloduvane.com</td>
             <td class="status-inactive">Inativo</td>
         </tr>
+
+          <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#51cf66"/>
+                <circle cx="25" cy="55" r="25" fill="#51cf66"/>
+            </svg></td>
+            <td>Amilton Tembe</td>
+            <td>Analista de Licencas</td>
+            <td>DL</td>
+            <td>+258 86 345 6789</td>
+            <td>amilton.tembe@camiloduvane.com</td>
+            <td class="status-inactive">Inativo</td>
+        </tr>
+
+
+
+
+
+
+
+
+        
     </tbody>
 </table>
 <script>

@@ -104,11 +104,11 @@ tr:hover {
                 <circle cx="25" cy="20" r="15" fill="#007bff"/>
                 <circle cx="25" cy="55" r="25" fill="#007bff"/>
             </svg></td>
-            <td>João Silva</td>
-            <td>Desenvolvedor Senior</td>
-            <td>TI</td>
+            <td>Fernando Uache</td>
+            <td>Gestor Sénior</td>
+            <td>Vereador</td>
             <td>+258 84 123 4567</td>
-            <td>joao.silva@empresa.com</td>
+            <td>fernando.uache@camiloduvane.com</td>
             <td class="status-active">Activo</td>
         </tr>
         <tr>
@@ -116,11 +116,11 @@ tr:hover {
                 <circle cx="25" cy="20" r="15" fill="#ff6b6b"/>
                 <circle cx="25" cy="55" r="25" fill="#ff6b6b"/>
             </svg></td>
-            <td>Maria Santos</td>
-            <td>Gerente RH</td>
-            <td>RH</td>
+            <td>Nelson Gustavo Massango</td>
+            <td>Gestor Sénior</td>
+            <td>DMTT</td>
             <td>+258 85 234 5678</td>
-            <td>maria.santos@empresa.com</td>
+            <td>nelson.massango@camiloduvane.com</td>
             <td class="status-active">Activo</td>
         </tr>
         <tr>
@@ -128,11 +128,11 @@ tr:hover {
                 <circle cx="25" cy="20" r="15" fill="#51cf66"/>
                 <circle cx="25" cy="55" r="25" fill="#51cf66"/>
             </svg></td>
-            <td>Pedro Costa</td>
+            <td>Carlos Vilanculos</td>
             <td>Analista Financeiro</td>
-            <td>Financeiro</td>
+            <td>DARHF</td>
             <td>+258 86 345 6789</td>
-            <td>pedro.costa@empresa.com</td>
+            <td>carlos.vilanculos@camiloduvane.com</td>
             <td class="status-inactive">Inativo</td>
         </tr>
     </tbody>

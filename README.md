@@ -101,6 +101,18 @@ tr:hover {
     <tbody>
         <tr>
             <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#51cf66"/>
+                <circle cx="25" cy="55" r="25" fill="#51cf66"/>
+            </svg></td>
+            <td>Camilo Wiliamo Duvane</td>
+            <td>Analista é desenvolvedor de sistemas de gestão, Auditoria e Financeiro</td>
+            <td>DL</td>
+            <td>+258 84 247 9404</td>
+            <td>camilowilliam0@gmail.com</td>
+            <td class="status-active">Activo</td>
+        </tr>
+        <tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
                 <circle cx="25" cy="20" r="15" fill="#007bff"/>
                 <circle cx="25" cy="55" r="25" fill="#007bff"/>
             </svg></td>
@@ -133,9 +145,9 @@ tr:hover {
             <td>DARHF</td>
             <td>+258 86 345 6789</td>
             <td>carlos.vilanculos@camiloduvane.com</td>
-            <td class="status-inactive">Inativo</td>
+            <td class="status-active">Activo</td>
         </tr>
-
+        <tr>
           <td><svg class="employee-photo" viewBox="0 0 50 50">
                 <circle cx="25" cy="20" r="15" fill="#51cf66"/>
                 <circle cx="25" cy="55" r="25" fill="#51cf66"/>
@@ -145,11 +157,67 @@ tr:hover {
             <td>DL</td>
             <td>+258 86 345 6789</td>
             <td>amilton.tembe@camiloduvane.com</td>
+            <td class="status-active">Activo</td>
+        </tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#51cf66"/>
+                <circle cx="25" cy="55" r="25" fill="#51cf66"/>
+            </svg></td>
+            <td>Baltazar Hilario</td>
+            <td>Operações</td>
+            <td>DOT</td>
+            <td>+258 86 345 6789</td>
+            <td>baltazar.hilario@camiloduvane.com</td>
             <td class="status-inactive">Inativo</td>
         </tr>
-
-
-
+        <tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#51cf66"/>
+                <circle cx="25" cy="55" r="25" fill="#51cf66"/>
+            </svg></td>
+            <td>Vasco Nhaquila</td>
+            <td>Relações Públicas</td>
+            <td>DTP</td>
+            <td>+258 86 345 6789</td>
+            <td>vnhawuila@gmail.com</td>
+            <td class="status-inactive">Inativo</td>
+        </tr>
+        <tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#51cf66"/>
+                <circle cx="25" cy="55" r="25" fill="#51cf66"/>
+            </svg></td>
+            <td>Safo Mahumana</td>
+            <td>Supervisor</td>
+            <td>DARHF</td>
+            <td>+258 86 345 6789</td>
+            <td>safomahumana@camiloduvane.com</td>
+            <td class="status-inactive">Inativo</td>
+        </tr>
+        <tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#51cf66"/>
+                <circle cx="25" cy="55" r="25" fill="#51cf66"/>
+            </svg></td>
+            <td>José Chiau</td>
+            <td>Analista de Licencas</td>
+            <td>Secretária</td>
+            <td>+258 86 345 6789</td>
+            <td>josechiau@camiloduvane.com</td>
+            <td class="status-inactive">Inativo</td>
+        </tr>
+        <tr>
+            <td><svg class="employee-photo" viewBox="0 0 50 50">
+                <circle cx="25" cy="20" r="15" fill="#51cf66"/>
+                <circle cx="25" cy="55" r="25" fill="#51cf66"/>
+            </svg></td>
+            <td>Catarina Chiquava</td>
+            <td>Analista de Licencas</td>
+            <td>DOT</td>
+            <td>+258 86 345 6789</td>
+            <td>amilton.tembe@camiloduvane.com</td>
+            <td class="status-inactive">Inativo</td>
+        </tr>
 
 
 

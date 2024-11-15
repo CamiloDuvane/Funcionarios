@@ -80,6 +80,8 @@ tr:hover {
     <input type="text" id="nameSearch" placeholder="Pesquisar por nome...">
     <select id="departmentSearch">
         <option value="">Todos os Departamentos</option>
+        <option value="Vereação" >Vereação</option>
+        <option value="DMTT" >DMTT</option>
         <option value="DARHF">DARHF</option>
         <option value="DL">DL</option>
         <option value="DOT">DOT</option>
